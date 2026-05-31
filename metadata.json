@@ -1,0 +1,6 @@
+{
+  "name": "EasyCaller",
+  "description": "An elegant, easy-to-use contacts manager with smart actions, Day/Night theme selector, and interactive notification call reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
